@@ -49,7 +49,3 @@ Start the server
 ```bash
   npm run start
 ```
-
-## Feedback
-
-If you have any feedback, please reach out to me fake@fake.com
