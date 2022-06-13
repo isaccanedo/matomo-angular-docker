@@ -1,0 +1,24 @@
+.menu {
+  position: relative;
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+
+  &__item {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+
+    a {
+      display: block;
+      padding: 10px 50px;
+      color: rebeccapurple;
+
+      &:hover,
+      &:active {
+        color: plum;
+      }
+    }
+  }
+}
